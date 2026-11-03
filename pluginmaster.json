@@ -27,5 +27,34 @@
     "RepoUrl": "https://github.com/MISAEKU/SmartNPC",
     "DownloadLinkInstall": "https://github.com/MISAEKU/SmartNPC/releases/download/0.18.69.20/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MISAEKU/SmartNPC/releases/download/0.18.69.20/latest.zip"
+  },
+  {
+    "Name": "Minion Humanizer",
+    "InternalName": "MinionHumanizer",
+    "AssemblyVersion": "1.29.3.0",
+    "Author": "MISAEKU",
+    "Punchline": "把你自己召唤的宠物改成人类骨骼模型，换装链路对它全部生效。",
+    "Description": "把你自己召唤的对象改成人类骨骼模型，于是 Glamourer / Penumbra 那套人形换装链路对它们全部生效。\n\n支持四类目标：宠物（minion）、跟宠坐骑、陆行鸟搭档、召唤师的宝石兽与小仙女。即以前 Glamourer 的 Turn Human 按钮的独立重写版（原按钮在 1.6.0.0 被作者删除），并专门处理掉了当初被删的三个理由。\n\n设计原则：只改玩家自己召唤的对象；骑乘期间整个枚举停摆避免与游戏抢对象；落骑瞬间强制恢复；一切改动可通过关闭功能完整还原。",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "minion",
+      "pet",
+      "glamour",
+      "penumbra",
+      "cosmetic",
+      "宠物"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/MISAEKU/Minion-Humanizer",
+    "DownloadLinkInstall": "https://github.com/MISAEKU/Minion-Humanizer/releases/download/1.29.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MISAEKU/Minion-Humanizer/releases/download/1.29.3.0/latest.zip"
   }
 ]
