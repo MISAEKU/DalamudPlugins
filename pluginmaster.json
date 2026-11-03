@@ -2,7 +2,7 @@
   {
     "Name": "Smart Npc",
     "InternalName": "SmartNpc",
-    "AssemblyVersion": "0.18.69.20",
+    "AssemblyVersion": "0.18.69.21",
     "Author": "MISAEKU",
     "Punchline": "凭空造一个会跟着你的智能 NPC，可换装、可做表情动作、会自己说话。",
     "Description": "凭空创建一个 NPC actor，改成人类外观后跟随玩家。\n\n设计原则（纯视觉，不碰游戏内容）：不参与战斗、制作、任务等任何实际流程；NPC 只做视觉表现。\n\n功能：凭空创建与销毁 NPC；人类外观，可读取 Glamourer 设计换装；可选 Penumbra 个人分组（mod 单独作用于她）；速度分级跟随（走 2.2 / 跑 4.6 米每秒，带加减速与迟滞）；自主行为（在附近自己挑地方游荡、走动、绕行、停顿、环顾，而不是死板粘在身后）；被柱子挡住会自动侧向绕行；情境反应（你在战斗、采集制作、或把她甩开时她会开口）；表情与动作；可选站立待机姿势（玩家 /pose 的姿势一~六）；人格与台词。",
@@ -25,8 +25,8 @@
     "LoadPriority": 0,
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/MISAEKU/SmartNPC",
-    "DownloadLinkInstall": "https://github.com/MISAEKU/SmartNPC/releases/download/0.18.69.20/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/MISAEKU/SmartNPC/releases/download/0.18.69.20/latest.zip"
+    "DownloadLinkInstall": "https://github.com/MISAEKU/SmartNPC/releases/download/0.18.69.21/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MISAEKU/SmartNPC/releases/download/0.18.69.21/latest.zip"
   },
   {
     "Name": "Minion Humanizer",
